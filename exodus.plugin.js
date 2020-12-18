@@ -3,10 +3,11 @@
  * @author LewisDev
  * @authorId 561960121052430370
  * @authorLink https://discord.bio/p/lewisdev
- * @version 0.0.1
+ * @version 0.0.2
  * @description Exodus Engine is a library with various functions.
  * @invite SbPgGkxYyt
  * @donate https://www.paypal.com/donate?hosted_button_id=9APSGG5YFQCLU
+ * @updateUrl https://raw.githubusercontent.com/TheLewisDev/ExodusEngine/main/exodus.plugin.js
  */
 
 const config = {
@@ -18,6 +19,7 @@ const config = {
     },
     "changeLog": {
         "improved": {
+            "New Update": "Added New Functions",
             "Exodus Engine": "Patched Buggy Functions"
         }
     }
